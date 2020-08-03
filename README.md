@@ -1,5 +1,5 @@
 
-<img src="../imagens/bemvindas.png">
+<img src="imagens/bemvindas.png">
 
 # Grupo de Estudo do Pyladies Salvador
 
