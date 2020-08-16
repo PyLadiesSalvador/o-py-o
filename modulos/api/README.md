@@ -1,4 +1,4 @@
-<img src="../imagens/orgulhe-se.png">
+<img src="../../imagens/orgulhe-se.png">
 
 ## O que é uma API
 
