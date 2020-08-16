@@ -1,7 +1,7 @@
 <img src="../imagens/chegamos.png">
 
-A primeira versão do nosso grupo de estudo terá duração de 2 meses com encontros semanais.
-Os encontros ocorrerão as quintas das - às - .
+A primeira versão do nosso grupo de estudo terá duração de 2 meses com encontros semanais. <br>
+Os encontros ocorrerão as quintas das - às - . <br>
 Um e-mail com os materiais referente ao próximo encontro é enviado toda - .
 Simbora?
 
