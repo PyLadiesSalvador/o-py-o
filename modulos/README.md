@@ -57,47 +57,56 @@ Simbora?
 
 ### 3. Condicionais e recursividade
 
-Capítulo 5: Condicionais e recursividade | PensePython2e
-Lista dos tópicos abordados:
-Expressões booleanas
-Operadores lógicos
-Execuções condicionais (If)
-Execução alternativa (else)
-Condições aninhadas
-Recursividade
-Diagrama de pilha
-Materiais de apoio:
-Comparando Números | Programação Dinâmica
-Analisando Condições em Python | Programação Dinâmica
-Curso Python #10 - Condições (Parte 1) | Curso de Python
+- **Capítulo 5**: [Condicionais e recursividade | PensePython2e](https://penseallen.github.io/PensePython2e/05-cond-recur.html)
+
+- **Tópicos abordados**:
+  - Expressões booleanas
+  - Operadores lógicos
+  - Execuções condicionais (If)
+  - Execução alternativa (else)
+  - Condições aninhadas
+  - Recursividade
+  - Diagrama de pilha
+
+- **Materiais de apoio**:
+  1. [Comparando Números | Programação Dinâmica](https://www.youtube.com/watch?v=pB0UeU7SIo0)
+  2. [Analisando Condições em Python | Programação Dinâmica](https://www.youtube.com/watch?v=HquOtDNB608)
+  3. [Condições (Parte 1) | Curso de Python](https://www.youtube.com/watch?v=K10u3XIf1-Q)
 
 ### 4. Laços de repetição
 
-Capítulo 7: Interação | PensePython2e
-Capítulo 8: Strings | PensePython2e
-Lista dos tópicos abordados:
-Reatribuição
-Instrução While, break e for
-Strings (cadeia de caracteres)
-Fatiamento de strings
-Materiais de apoio:
-Curso Python #013 - Estrutura de repetição for | Curso em vídeo
-Strings e Criptografia | Programação Dinâmica
+- **Capítulo 7**: [Interação | PensePython2e](https://penseallen.github.io/PensePython2e/07-iteracao.html)
+
+- **Capítulo 8**: [Strings | PensePython2e](https://penseallen.github.io/PensePython2e/08-strings.html)
+
+- **Tópicos abordados**:
+  - Reatribuição
+  - Instrução While, break e for
+  - Strings (cadeia de caracteres)
+  - Fatiamento de strings
+
+- **Materiais de apoio**:
+  1. [Estrutura de repetição for | Curso em vídeo](https://www.youtube.com/watch?v=cL4YDtFnCt4)
+  2. [Strings e Criptografia | Programação Dinâmica](https://www.youtube.com/watch?v=COtUf6E5U3M)
 
 ### 5. Listas e Dicionários
 
-Capítulo 10: Listas | PensePython2e
-Capítulo 11: Dicionários | PensePython2e
-Lista dos tópicos abordados:
-Reforçando laços de repetição
-Listas
-Dicionários
-Materiais de apoio:
-Repetições em Python I - Iterações Definidas | Programação dinâmica
-Repetições em Python II — Iterações Condicionais | Programação dinâmica
-LISTAS em PYTHON | Programação dinâmica
-Extra: 
-Tuplas: O que são Tuplas em Python (curso Python para machine learning - Aula 4) | Didática Tech
+- **Capítulo 10**: [Listas | PensePython2e](https://penseallen.github.io/PensePython2e/10-listas.html)
+
+- **Capítulo 11**: [Dicionários | PensePython2e](https://penseallen.github.io/PensePython2e/11-dicionarios.html)
+
+- **Tópicos abordados**:
+  - Reforçando laços de repetição
+  - Listas
+  - Dicionários
+
+- **Materiais de apoio**:
+  1. [Repetições em Python I - Iterações Definidas | Programação dinâmica](https://www.youtube.com/watch?v=H3uppJ2XU9Y)
+  2. [Repetições em Python II — Iterações Condicionais | Programação dinâmica](https://www.youtube.com/watch?v=3nkdjBE3Xlo)
+  3. [LISTAS em PYTHON | Programação dinâmica](https://www.youtube.com/watch?v=Mjl1O9ANFrI)
+
+- **Extra**:
+  - [O que são Tuplas em Python | Didática Tech](https://www.youtube.com/watch?v=BVNGvpK9VoA)
 
 ### 6. Aplicação prática a partir da demanda das participantes
 
@@ -105,43 +114,51 @@ A saber
 
 ### 7. Manipulação de Arquivos
 
-Capítulo 14: Arquivos | PensePython2e
-Lista dos tópicos abordados:
-Leitura e escrita
-Operador de formatação
-Nomes de arquivo e caminhos
-Captura de exceções
-Bancos de dados
-Usando o Pickle
-Materiais de apoio:
-Aulas Python - 078 - Armazenamento de Dados IV: O Mágico pickle
+- **Capítulo 14**: [Arquivos | PensePython2e](https://penseallen.github.io/PensePython2e/14-arquivos.html)
+
+- **Tópicos abordados**:
+  - Leitura e escrita
+  - Operador de formatação
+  - Nomes de arquivo e caminhos
+  - Captura de exceções
+  - Bancos de dados
+  - Usando o Pickle
+
+- **Materiais de apoio**:
+  1. [Armazenamento de Dados IV: O Mágico pickle | Ignorância Zero](https://www.youtube.com/watch?v=E-OVDyD7v8g)
 
 ### 8. Classes e Objetos
 
-Capítulo 15: Classes e objetos | PensePython2e
-Capítulo 16: Classes e funções | PensePython2e
-Lista dos tópicos abordados:
-Atributos
-Objetos
-Prototipação versus planejamento
-Materiais de apoio:
-https://www.youtube.com/watch?v=gJC02P6jkRM
-Classes | Orientação a Objetos #2 - Programação Dinâmica
-Paradigmas de Programação // Vlog #26 - Código Fonte TV
+- **Capítulo 15**: [Classes e objetos | PensePython2e](https://penseallen.github.io/PensePython2e/15-classes-objetos.html)
+
+- **Capítulo 16**: [Classes e funções | PensePython2e](https://penseallen.github.io/PensePython2e/16-classes-funcoes.html)
+
+- **Tópicos abordados**:
+  - Atributos
+  - Objetos
+  - Prototipação versus planejamento
+
+- **Materiais de apoio**:
+  1. [O que é um Objeto? - Orientação a Objetos | Programação Dinâmica](https://www.youtube.com/watch?v=gJC02P6jkRM)
+  2. [Classes - Orientação a Objetos #2 - Programação Dinâmica](https://www.youtube.com/watch?v=9nWMXIXNGdU)
+  3. [Paradigmas de Programação // Vlog #26 | Código Fonte TV](https://www.youtube.com/watch?v=EefVmQ2wPlM)
 
 ### 9. Classes e Herança
 
-Capítulo 17: Classes e métodos | PensePython2e
-Capítulo 18: Herança | PensePython2e
-Lista dos tópicos abordados:
-Recursos de orientação a objeto
-Método init
-Método
-Sobrecarga de operadores
-Polimorfismo
-Interface e implementação
-Materiais de apoio:
-https://www.youtube.com/watch?v=gJC02P6jkRM
-Classes | Orientação a Objetos #2
-https://www.youtube.com/watch?v=ei9-eCyon7I
-Sobrecarga de Operadores | Orientação a Objetos #4
+- **Capítulo 17**: [Classes e métodos | PensePython2e](https://penseallen.github.io/PensePython2e/17-classes-metodos.html)
+
+- **Capítulo 18**: [Herança | PensePython2e](https://penseallen.github.io/PensePython2e/18-heranca.html)
+
+- **Tópicos abordados**:
+  - Recursos de orientação a objeto
+  - Método init
+  - Método
+  - Sobrecarga de operadores
+  - Polimorfismo
+  - Interface e implementação
+
+- **Materiais de apoio**:
+  1. [O que é um Objeto? - Orientação a Objetos | Programação Dinâmica](https://www.youtube.com/watch?v=gJC02P6jkRM)
+  2. [Classes - Orientação a Objetos #2 | Programação Dinâmica](https://www.youtube.com/watch?v=9nWMXIXNGdU)
+  3. [Representando Objetos em Strings - Orientação a Objetos #3 | Programação Dinâmica](https://www.youtube.com/watch?v=ei9-eCyon7I)
+  4. [Sobrecarga de Operadores - Orientação a Objetos #4 | Programação Dinâmica](https://www.youtube.com/watch?v=RlFcUIVZGXM)
