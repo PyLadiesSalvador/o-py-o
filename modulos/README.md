@@ -21,35 +21,39 @@ Simbora?
 
 ### 1. Introdução à programação e conceitos básicos de Python
 
-Capítulo 1: A jornada do programa - Capítulo 1: A jornada do programa | PensePython2e
-Capítulo 2: Variáveis, expressões e instruções - Capítulo 2: Variáveis, expressões e instruções | PensePython2e
-Lista dos tópicos abordados:
-Formas de executar Python
-Variáveis (Atribuição, nomenclatura)
-Tipos de dados
-Expressões e instruções
-Ordem das operações
-Operações de Strings
-Comentários
-Erros comuns
+- **Capítulo 1**: [A jornada do programa | PensePython2e](https://penseallen.github.io/PensePython2e/01-jornada.html)
 
-Materiais de apoio:
-Operando com Números em Python | Programação Dinâmica
-O que é e como se utiliza uma variável? | Programação Dinâmica
-Primeiros passos no Python: Um tour pela linguagem | DevMedia
+- **Capítulo 2**: [Variáveis, expressões e instruções | PensePython2e](https://penseallen.github.io/PensePython2e/02-vars-expr-instr.html)
 
+- **Tópicos abordados**:
+  - Formas de executar Python
+  - Variáveis (Atribuição, nomenclatura)
+  - Tipos de dados
+  - Expressões e instruções
+  - Ordem das operações
+  - Operações de Strings
+  - Comentários
+  - Erros comuns
+  
+- **Materiais de apoio**:
+  1. [Operando com Números em Python | Programação Dinâmica](https://www.youtube.com/watch?v=hysCU5CWl80)
+  2. [O que é e como se utiliza uma variável? | Programação Dinâmica](https://www.youtube.com/watch?v=tZ-3EGw5IPw)
+  3. [Primeiros passos no Python: Um tour pela linguagem | DevMedia](https://www.devmedia.com.br/python-tutorial-tour-pela-linguagem/40646)
 
 ### 2. Funções e parâmetros
 
-Capítulo 3: Funções | PensePython2e
-Capítulo 6: Funções com resultado | PensePython2e
-Lista dos tópicos abordados:
-Funções
-Parâmetros
-Funções com resultado
-Materiais de apoio:
-Funções em Python - Programação Dinâmica
-Relembrando tipos de dados: Conhecendo Tipos de Dados em Python
+- **Capítulo 3**: [Funções | PensePython2e](https://penseallen.github.io/PensePython2e/03-funcoes.html)
+
+- **Capítulo 6**: [Funções com resultado | PensePython2e](https://penseallen.github.io/PensePython2e/06-funcoes-result.html)
+
+- **Tópicos abordados**:
+  - Funções
+  - Parâmetros
+  - Funções com resultado
+
+- **Materiais de apoio**:
+  1. [Funções em Python - Programação Dinâmica](https://www.youtube.com/watch?v=7hJntZxux0M)
+  2. [Relembrando tipos de dados: Conhecendo Tipos de Dados em Python](https://www.youtube.com/watch?v=EosATvOIHEs)
 
 ### 3. Condicionais e recursividade
 
