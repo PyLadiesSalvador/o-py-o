@@ -52,8 +52,8 @@ Simbora?
   - Funções com resultado
 
 - **Materiais de apoio**:
-  1. [Funções em Python - Programação Dinâmica](https://www.youtube.com/watch?v=7hJntZxux0M)
-  2. [Relembrando tipos de dados: Conhecendo Tipos de Dados em Python](https://www.youtube.com/watch?v=EosATvOIHEs)
+  1. [Funções em Python | Programação Dinâmica](https://www.youtube.com/watch?v=7hJntZxux0M)
+  2. [Relembrando tipos de dados: Conhecendo Tipos de Dados em Python | Programação Dinâmica](https://www.youtube.com/watch?v=EosATvOIHEs)
 
 ### 3. Condicionais e recursividade
 
@@ -139,9 +139,9 @@ A saber
   - Prototipação versus planejamento
 
 - **Materiais de apoio**:
-  1. [O que é um Objeto? - Orientação a Objetos | Programação Dinâmica](https://www.youtube.com/watch?v=gJC02P6jkRM)
-  2. [Classes - Orientação a Objetos #2 - Programação Dinâmica](https://www.youtube.com/watch?v=9nWMXIXNGdU)
-  3. [Paradigmas de Programação // Vlog #26 | Código Fonte TV](https://www.youtube.com/watch?v=EefVmQ2wPlM)
+  1. [O que é um Objeto? | Programação Dinâmica](https://www.youtube.com/watch?v=gJC02P6jkRM)
+  2. [Classes | Programação Dinâmica](https://www.youtube.com/watch?v=9nWMXIXNGdU)
+  3. [Paradigmas de Programação | Código Fonte TV](https://www.youtube.com/watch?v=EefVmQ2wPlM)
 
 ### 9. Classes e Herança
 
@@ -158,7 +158,7 @@ A saber
   - Interface e implementação
 
 - **Materiais de apoio**:
-  1. [O que é um Objeto? - Orientação a Objetos | Programação Dinâmica](https://www.youtube.com/watch?v=gJC02P6jkRM)
-  2. [Classes - Orientação a Objetos #2 | Programação Dinâmica](https://www.youtube.com/watch?v=9nWMXIXNGdU)
-  3. [Representando Objetos em Strings - Orientação a Objetos #3 | Programação Dinâmica](https://www.youtube.com/watch?v=ei9-eCyon7I)
-  4. [Sobrecarga de Operadores - Orientação a Objetos #4 | Programação Dinâmica](https://www.youtube.com/watch?v=RlFcUIVZGXM)
+  1. [O que é um Objeto? | Programação Dinâmica](https://www.youtube.com/watch?v=gJC02P6jkRM)
+  2. [Classes | Programação Dinâmica](https://www.youtube.com/watch?v=9nWMXIXNGdU)
+  3. [Representando Objetos em Strings | Programação Dinâmica](https://www.youtube.com/watch?v=ei9-eCyon7I)
+  4. [Sobrecarga de Operadores | Programação Dinâmica](https://www.youtube.com/watch?v=RlFcUIVZGXM)
