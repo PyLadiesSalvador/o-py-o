@@ -9,7 +9,7 @@ Simbora?
 
 1. Introdução à programação e conceitos básicos de Python
 2. Funções e parâmetros
-3. Condicionais e recursividade
+3. Condicionais
 4. Laços de repetição
 5. Listas e Dicionários
 6. Aplicação prática a partir da demanda das participantes
@@ -55,7 +55,7 @@ Simbora?
   1. [Funções em Python | Programação Dinâmica](https://www.youtube.com/watch?v=7hJntZxux0M)
   2. [Relembrando tipos de dados: Conhecendo Tipos de Dados em Python | Programação Dinâmica](https://www.youtube.com/watch?v=EosATvOIHEs)
 
-### 3. Condicionais e recursividade
+### 3. Condicionais
 
 - **Capítulo 5**: [Condicionais e recursividade | PensePython2e](https://penseallen.github.io/PensePython2e/05-cond-recur.html)
 
@@ -65,8 +65,6 @@ Simbora?
   - Execuções condicionais (If)
   - Execução alternativa (else)
   - Condições aninhadas
-  - Recursividade
-  - Diagrama de pilha
 
 - **Materiais de apoio**:
   1. [Comparando Números | Programação Dinâmica](https://www.youtube.com/watch?v=pB0UeU7SIo0)
