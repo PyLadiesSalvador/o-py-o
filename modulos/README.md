@@ -1,8 +1,7 @@
 <img src="../imagens/chegamos.png">
 
 A primeira versão do nosso grupo de estudo terá duração de 2 meses com encontros semanais. <br>
-Os encontros ocorrerão as quintas das - às - . <br>
-Um e-mail com os materiais referente ao próximo encontro é enviado toda - .
+Um e-mail com os materiais referente a cada encontro é enviado no início de cada semana.
 Simbora?
 
 ## Módulos
@@ -108,7 +107,7 @@ Simbora?
 
 ### 6. Aplicação prática a partir da demanda das participantes
 
-A saber
+[A definir]
 
 ### 7. Manipulação de Arquivos
 
