@@ -43,12 +43,9 @@ Simbora?
 
 - **Capítulo 3**: [Funções | PensePython2e](https://penseallen.github.io/PensePython2e/03-funcoes.html)
 
-- **Capítulo 6**: [Funções com resultado | PensePython2e](https://penseallen.github.io/PensePython2e/06-funcoes-result.html)
-
 - **Tópicos abordados**:
   - Funções
   - Parâmetros
-  - Funções com resultado
 
 - **Materiais de apoio**:
   1. [Funções em Python | Programação Dinâmica](https://www.youtube.com/watch?v=7hJntZxux0M)
