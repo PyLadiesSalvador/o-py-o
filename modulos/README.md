@@ -1,20 +1,43 @@
 <img src="../imagens/chegamos.png">
 
-A primeira versão do nosso grupo de estudo terá duração de 2 meses com encontros semanais. <br>
-Um e-mail com os materiais referente a cada encontro é enviado no início de cada semana.
-Simbora?
+Grupo de estudos do PyLadies Salvador onde a ideia é construir conjuntamente um conhecimento basilar sobre Python, explorar aplicações práticas e trocar dicas 
+de processos seletivos. Para isso, na 2ª edição realizada em 2022 dividimos os assuntos em 4 módulos gerais:
 
-## Módulos
+- 1º Módulo - Básico 1 - Introdução à programação
+  - Ambientação, Introdução à programação e Conceitos básicos de Python 
+  - Funções, Parâmetros, Condicionais & Laços de repetição
+- 2º Módulo - Básico 2 - Conhecendo Python um pouco melhor
+  - Estrutura de dados em Python: Listas e Dicionários 
+  - Classes, Objetos e Herança
+- 3º Módulo - Aplicações Práticas
+  - Análise de Dados
+  - Chat Bot
+  - API
+- 4º Módulo - Quero um emprego!
+  - Linkedin, portfólio e currículo
+  - Python para processo seletivo
 
-1. Introdução à programação e conceitos básicos de Python
-2. Funções e parâmetros
-3. Condicionais
-4. Laços de repetição
-5. Listas e Dicionários
-6. Aplicação prática a partir da demanda das participantes
-7. Manipulação de Arquivos
-8. Classes e Objetos
-9. Classes e Herança
+A ideia dessa divisão é que as pessoas não se sintam pressionadas por um compromisso de 2 meses e que possam escolher qual módulo faz mais sentido para o aprendizado dela naquele momento.
+
+## Como funciona o grupo de estudo?
+
+- Aos domingos recebemos por email a lista de conteúdo, materiais e links para o assunto da semana
+- Fazemos a leitura e prática do material da semana - *durante a semana*
+- Nos sábados fazemos uma revisão conjunta, atividades práticas e tiramos dúvidas
+- Respeitamos as falas de todas as pessoas
+- Se tiver barulho na nossa casa, deixamos o nosso microfone mutado durante as outras falas
+- Nossos encontros serãos aos sábados das 9 às 12 horas com uma pausa de 15 minutos às 10:45
+- A gente vai enfrentar o nosso medo de errar e fazer todas as perguntas necessárias para o nosso entendimento <3
+
+## Como esse repositório está organizado?
+
+Em `PyLadiesSalvador/o-py-o/modulos` temos no README toda a referência sobre os assuntos e materiais de estudo. Nos cadernos que preparamos para cada módulo (arquivos `.ipynb`) estão as atividades de fixação que iremos praticar em cada encontro. 
+
+Os materiais de referência para os exercícios são: 
+- [Atividades dos respectivos capítulos do livro PensePython2e](https://penseallen.github.io/PensePython2e/) 
+- [Lista de exercicios | Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
+- [Lista de exercícios resolvidos | Gabriel Schade Cardoso](https://gabriel-schade-cardoso.gitbook.io/python-aprendendo-a-programar/chapter12)
+- [Lista de Exercícios Resolvidos sobre Listas | Responde Aí](https://www.respondeai.com.br/conteudo/programacao/python/lista-de-exercicios/listas-1937)
 
 ## Detalhamento de cada módulo:
 
