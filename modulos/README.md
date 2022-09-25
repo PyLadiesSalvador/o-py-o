@@ -1,6 +1,7 @@
 <img src="../imagens/chegamos.png">
 
-Grupo de estudos do PyLadies Salvador onde a ideia é construir conjuntamente um conhecimento basilar sobre Python, explorar aplicações práticas e trocar dicas 
+## Grupo de estudos do PyLadies Salvador
+O objetivo  é construir conjuntamente um conhecimento basilar sobre Python, explorar aplicações práticas e trocar dicas 
 de processos seletivos. Para isso, na 2ª edição realizada em 2022 dividimos os assuntos em 4 módulos gerais:
 
 - 1º Módulo - Básico 1 - Introdução à programação
@@ -41,7 +42,7 @@ Os materiais de referência para os exercícios são:
 
 ## Detalhamento de cada módulo:
 
-### 1. Introdução à programação e conceitos básicos de Python
+### 1.1. Introdução à programação e conceitos básicos de Python
 
 - **Capítulo 1**: [A jornada do programa | PensePython2e](https://penseallen.github.io/PensePython2e/01-jornada.html)
 
@@ -62,21 +63,24 @@ Os materiais de referência para os exercícios são:
   2. [O que é e como se utiliza uma variável? | Programação Dinâmica](https://www.youtube.com/watch?v=tZ-3EGw5IPw)
   3. [Primeiros passos no Python: Um tour pela linguagem | DevMedia](https://www.devmedia.com.br/python-tutorial-tour-pela-linguagem/40646)
 
-### 2. Funções e parâmetros
+### 1.2.1 Funções e parâmetros
 
 - **Capítulo 3**: [Funções | PensePython2e](https://penseallen.github.io/PensePython2e/03-funcoes.html)
+- **Capítulo 6**: [Funções com resultado | PensePython2e - **apenas tópicos _6.1 - Valores de retorno_ e _6.9 - Depuração_**)](https://penseallen.github.io/PensePython2e/06-funcoes-result.html) 
 
 - **Tópicos abordados**:
   - Funções
   - Parâmetros
+  - Funções com resultado
+  - Depuração
 
 - **Materiais de apoio**:
   1. [Funções em Python | Programação Dinâmica](https://www.youtube.com/watch?v=7hJntZxux0M)
   2. [Relembrando tipos de dados: Conhecendo Tipos de Dados em Python | Programação Dinâmica](https://www.youtube.com/watch?v=EosATvOIHEs)
 
-### 3. Condicionais
+### 1.2.2. Condicionais
 
-- **Capítulo 5**: [Condicionais e recursividade | PensePython2e](https://penseallen.github.io/PensePython2e/05-cond-recur.html)
+- **Capítulo 5**: [Condicionais | PensePython2e - **apenas até o tópico 5.7 - Condicionais aninhadas)**](https://penseallen.github.io/PensePython2e/05-cond-recur.html)
 
 - **Tópicos abordados**:
   - Expressões booleanas
@@ -90,7 +94,9 @@ Os materiais de referência para os exercícios são:
   2. [Analisando Condições em Python | Programação Dinâmica](https://www.youtube.com/watch?v=HquOtDNB608)
   3. [Condições (Parte 1) | Curso de Python](https://www.youtube.com/watch?v=K10u3XIf1-Q)
 
-### 4. Laços de repetição
+### 1.2.3 Laços de repetição
+
+- **Curso Python 013**: [Estrutura de repetição for | Curso em vídeo](https://www.youtube.com/watch?v=cL4YDtFnCt4&ab_channel=CursoemV%C3%ADdeo)
 
 - **Capítulo 7**: [Interação | PensePython2e](https://penseallen.github.io/PensePython2e/07-iteracao.html)
 
@@ -103,10 +109,9 @@ Os materiais de referência para os exercícios são:
   - Fatiamento de strings
 
 - **Materiais de apoio**:
-  1. [Estrutura de repetição for | Curso em vídeo](https://www.youtube.com/watch?v=cL4YDtFnCt4)
-  2. [Strings e Criptografia | Programação Dinâmica](https://www.youtube.com/watch?v=COtUf6E5U3M)
+  1. [Strings e Criptografia | Programação Dinâmica](https://www.youtube.com/watch?v=COtUf6E5U3M)
 
-### 5. Listas e Dicionários
+### 2.1 Listas e Dicionários
 
 - **Capítulo 10**: [Listas | PensePython2e](https://penseallen.github.io/PensePython2e/10-listas.html)
 
@@ -125,26 +130,7 @@ Os materiais de referência para os exercícios são:
 - **Extra**:
   - [O que são Tuplas em Python | Didática Tech](https://www.youtube.com/watch?v=BVNGvpK9VoA)
 
-### 6. Aplicação prática a partir da demanda das participantes
-
-[A definir]
-
-### 7. Manipulação de Arquivos
-
-- **Capítulo 14**: [Arquivos | PensePython2e](https://penseallen.github.io/PensePython2e/14-arquivos.html)
-
-- **Tópicos abordados**:
-  - Leitura e escrita
-  - Operador de formatação
-  - Nomes de arquivo e caminhos
-  - Captura de exceções
-  - Bancos de dados
-  - Usando o Pickle
-
-- **Materiais de apoio**:
-  1. [Armazenamento de Dados IV: O Mágico pickle | Ignorância Zero](https://www.youtube.com/watch?v=E-OVDyD7v8g)
-
-### 8. Classes e Objetos
+### 2.2.1 Classes e Objetos
 
 - **Capítulo 15**: [Classes e objetos | PensePython2e](https://penseallen.github.io/PensePython2e/15-classes-objetos.html)
 
@@ -160,7 +146,7 @@ Os materiais de referência para os exercícios são:
   2. [Classes | Programação Dinâmica](https://www.youtube.com/watch?v=9nWMXIXNGdU)
   3. [Paradigmas de Programação | Código Fonte TV](https://www.youtube.com/watch?v=EefVmQ2wPlM)
 
-### 9. Classes e Herança
+### 2.2.2 Classes e Herança
 
 - **Capítulo 17**: [Classes e métodos | PensePython2e](https://penseallen.github.io/PensePython2e/17-classes-metodos.html)
 
