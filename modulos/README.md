@@ -13,7 +13,7 @@ de processos seletivos. Para isso, na 2ª edição realizada em 2022 dividimos o
 - 3º Módulo - Aplicações Práticas
   - Análise de Dados
   - Chat Bot
-  - API
+  - API - [Material de referência disponível do repo `PyLadiesSalvador/intro-api`](https://github.com/PyLadiesSalvador/intro-api)
 - 4º Módulo - Quero um emprego!
   - Linkedin, portfólio e currículo
   - Python para processo seletivo
