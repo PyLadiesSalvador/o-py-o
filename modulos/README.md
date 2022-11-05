@@ -46,13 +46,14 @@ Os materiais de referência para os exercícios são:
 
 **O que é?**  É uma ferramenta usada para publicar, compartilhar e versionar arquivos, como textos e códigos. O GitHub se utiliza do Git para permitir o versionamento de arquivos. É esse versionamento que permite que a gente dê ctrl+z nos projetos, sistemas, textos, sites e etc.
 
-**Por que usar o GitHub?** Porque essa é uma ferramenta muito importante no desenvolvimento de software e muitas vezes é usada para avaliação em processos seletivos
+**Por que usar o GitHub?** Porque essa é uma ferramenta muito importante no desenvolvimento de software e muitas vezes é usada para avaliação em processos seletivos.
+
 Caso não tenha, já corre e cria uma conta no GitHub: https://github.com/
-Tutorial de como criar a conta e configurações iniciais: https://youtu.be/1QTi8nIlK1o?t=237 (a interface do GitHub pode estar um pouco diferente mas os campos a serem preenchidos são os mesmos)
+- Tutorial de como criar a conta e configurações iniciais: https://youtu.be/1QTi8nIlK1o?t=237 (a interface do GitHub pode estar um pouco diferente, mas os campos a serem preenchidos são os mesmos)
 
 **2) Jupyter Notebook - [https://jupyter.org/](https://jupyter.org/)**
 
-**O que é?** Um forma de construir códigos interativos, onde podemos visualizar e executar código, texto, gráficos e animações. Vamos usá-la para programar em Python.
+**O que é?** Uma forma de construir códigos interativos, onde podemos visualizar e executar código, texto, gráficos e animações. Vamos usá-la para programar em Python.
 
 **Por que usar o Jupyter Notebook?** Porque esse formato nos permite explorar e descrever tudo o que vamos fazendo passo a passo. E isso facilita o compartilhamento das nossas ideias com outras pessoas.
 
