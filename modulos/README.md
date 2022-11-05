@@ -11,7 +11,7 @@ de processos seletivos. Para isso, na 2ª edição realizada em 2022 dividimos o
   - Estrutura de dados em Python: Listas e Dicionários 
   - Classes, Objetos e Herança
 - 3º Módulo - Aplicações Práticas
-  - Análise de Dados
+  - Análise de Dados - [Material de referência disponível na pasta `praticas`](https://github.com/PyLadiesSalvador/o-py-o/tree/master/modulos/praticas)
   - Chat Bot
   - API - [Material de referência disponível do repo `PyLadiesSalvador/intro-api`](https://github.com/PyLadiesSalvador/intro-api)
 - 4º Módulo - Quero um emprego!
