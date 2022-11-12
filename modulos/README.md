@@ -11,9 +11,9 @@ de processos seletivos. Para isso, na 2ª edição realizada em 2022 dividimos o
   - Estrutura de dados em Python: Listas e Dicionários 
   - Classes, Objetos e Herança
 - 3º Módulo - Aplicações Práticas
-  - Análise de Dados
+  - Análise de Dados - [Material de referência disponível na pasta `praticas`](https://github.com/PyLadiesSalvador/o-py-o/tree/master/modulos/praticas)
   - Chat Bot
-  - API
+  - API - [Material de referência disponível do repo `PyLadiesSalvador/intro-api`](https://github.com/PyLadiesSalvador/intro-api)
 - 4º Módulo - Quero um emprego!
   - Linkedin, portfólio e currículo
   - Python para processo seletivo
@@ -46,13 +46,21 @@ Os materiais de referência para os exercícios são:
 
 **O que é?**  É uma ferramenta usada para publicar, compartilhar e versionar arquivos, como textos e códigos. O GitHub se utiliza do Git para permitir o versionamento de arquivos. É esse versionamento que permite que a gente dê ctrl+z nos projetos, sistemas, textos, sites e etc.
 
-**Por que usar o GitHub?** Porque essa é uma ferramenta muito importante no desenvolvimento de software e muitas vezes é usada para avaliação em processos seletivos
+**Por que usar o GitHub?** Porque essa é uma ferramenta muito importante no desenvolvimento de software e muitas vezes é usada para avaliação em processos seletivos.
+
 Caso não tenha, já corre e cria uma conta no GitHub: https://github.com/
-Tutorial de como criar a conta e configurações iniciais: https://youtu.be/1QTi8nIlK1o?t=237 (a interface do GitHub pode estar um pouco diferente mas os campos a serem preenchidos são os mesmos)
+- Tutorial de como criar a conta e configurações iniciais: https://youtu.be/1QTi8nIlK1o?t=237 (a interface do GitHub pode estar um pouco diferente, mas os campos a serem preenchidos são os mesmos)
+- Tutoriais de como criar chaves GPG e SSH (e porque é importante ativar):
+  - [Gerando uma nova chave SSH e adicionando-a ao ssh-agent](https://docs-github-com.translate.goog/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp)
+  - [Como gerenciar diversas contas do GitHub em uma única máquina com as chaves SSH](https://www.freecodecamp.org/portuguese/news/como-gerenciar-diversas-contas-do-github-em-uma-unica-maquina-com-chaves-ssh/)
+- Aqui algumas recomendações para você aprofundar seus estudos em Git - Curso de Git e Github em vídeos:
+  - [Git e Github para iniciantes por William Justen](https://youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
+  - [COMO USAR GIT E GITHUB NA PRÁTICA! - desde o primeiro commit até o pull request! por Rafaella Ballerini](https://www.youtube.com/watch?v=UBAX-13g8OM)
+  - [Curso de Git e GitHub por Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 **2) Jupyter Notebook - [https://jupyter.org/](https://jupyter.org/)**
 
-**O que é?** Um forma de construir códigos interativos, onde podemos visualizar e executar código, texto, gráficos e animações. Vamos usá-la para programar em Python.
+**O que é?** Uma forma de construir códigos interativos, onde podemos visualizar e executar código, texto, gráficos e animações. Vamos usá-la para programar em Python.
 
 **Por que usar o Jupyter Notebook?** Porque esse formato nos permite explorar e descrever tudo o que vamos fazendo passo a passo. E isso facilita o compartilhamento das nossas ideias com outras pessoas.
 
